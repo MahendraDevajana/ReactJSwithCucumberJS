@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_example",
+  "version": "1.0.0",
+  "description": "Example project to run the CucumberJS in React Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahendraDevajana/ReactJSwithCucumberJS.git"
+  },
+  "keywords": [
+    "CucumberJS",
+    "ReactJS"
+  ],
+  "author": "Mahendra Devajana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahendraDevajana/ReactJSwithCucumberJS/issues"
+  },
+  "homepage": "https://github.com/MahendraDevajana/ReactJSwithCucumberJS#readme"
+}
